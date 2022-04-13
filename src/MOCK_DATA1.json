@@ -1,0 +1,14 @@
+[
+    {"date":"3/17/2021","type":"Invoice","id":"10233","business":"Business1","name":"ABC Industry","amount":"$20,000"},
+    {"date":"3/17/2021","type":"Invoice","id":"10233","business":"Business2","name":"ABC Industry","amount":"$20,000"},
+    {"date":"3/17/2021","type":"Invoice","id":"10233","business":"Business3","name":"ABC Industry","amount":"$20,000"},
+    {"date":"3/17/2021","type":"Invoice","id":"10233","business":"Business4","name":"ABC Industry","amount":"$20,000"},
+    {"date":"3/17/2021","type":"Invoice","id":"10233","business":"Business5","name":"ABC Industry","amount":"$20,000"},
+    {"date":"3/17/2021","type":"Invoice","id":"10233","business":"Business6","name":"ABC Industry","amount":"$20,000"},
+    {"date":"3/17/2021","type":"Invoice","id":"10233","business":"Business7","name":"ABC Industry","amount":"$20,000"},
+    {"date":"3/17/2021","type":"Invoice","id":"10233","business":"Business8","name":"ABC Industry","amount":"$20,000"}
+  
+   
+    
+    
+]
